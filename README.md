@@ -33,7 +33,7 @@ This tool performs a TCP connect scan on a specified target (IP address or domai
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/port_scanner.git
+git clone https://github.com/aadithynn/port_scanner.git
 cd port_scanner
 ```
 
